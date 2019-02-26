@@ -1,10 +1,8 @@
 # welcome bot: A Probot App
-
-DESCRIPTION PLACEHOLDER
+a robot that say welcome to you.
 
 ## What it does
-
-FEATURES PLACEHOLDER
+Say hi and pour you a cup of coffee.
 
 ## Getting started
 
