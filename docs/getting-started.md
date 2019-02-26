@@ -34,5 +34,4 @@ firstPRMergeComment: >
 ```
 
 ### Example Messages
-
-CONFIGS PLACEHOLDER
+"Hello, friendly user~"
